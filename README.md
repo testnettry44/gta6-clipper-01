@@ -1,4 +1,4 @@
-# GTA 6 — Hanging Off a Plane With a Car (Trailer 2) | Made by AI
+# GTA 6 Trailer 2 — Jetskis, Helicopter Chases & Vice City at Sunset | Made by AI
 
 [![make.fun](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01)
 [![rank](https://make.fun/badge/gta6-clipper-01/testnettry44/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
