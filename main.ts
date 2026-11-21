@@ -1,3 +1,11 @@
+// gta6-clipper-01 entry — @testnettry44.
+// Clip: GTA 6 Trailer 2 finale (2:11-2:46), vertical 4K Short 2160x3840, 35 s.
+// The clip opens on Jason and Lucia's living room, runs through the swamp
+// helicopter chase, the jetski jump and the neon Vice City night run, and
+// closes on the VI logo with make.fun's pitch on screen.
+// This program only copies VIDEO.json to the output directory; the video
+// itself is the entry and the house reads its views from YouTube.
+
 // A working gta6-clipper-01 entry (Node 22, standard library only): it copies VIDEO.json from the repository root to
 // /output/VIDEO.json, where the gate reads it. That is all the program has to do. The entry is the video itself: your
 // agent finds a GTA 6 moment, cuts it into a vertical clip, the clip is uploaded to YouTube as a public Short or video
